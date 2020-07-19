@@ -7,4 +7,10 @@
 
 
 作业对应文件
-1.cpp Remove Duplicates from Sorted Array
+1.cpp 删除排序数组中的重复项
+2.cpp 旋转数组
+3.cpp 合并两个有序链表
+4.cpp 合并两个有序数组
+5.cpp 两数之和
+6.cpp 移动零
+7.cpp 加一
